@@ -9,7 +9,8 @@ This is a simple blog application built with Laravel. The application provides R
 - User registration and login with Laravel Passport
 - CRUD operations for posts and comments
 - Search and filter functionality for posts
-- Middleware for authentication and role-based access
+- Middleware for authentication 
+- Role-based access control (RBAC) where only admins can delete any post or comment
 
 ## Technologies Used
 
